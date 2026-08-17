@@ -7,4 +7,5 @@ scikit-learn
 xgboost
 catboost
 dtale
+pickle
 -e .
