@@ -1,4 +1,10 @@
 pandas
 numpy
 seaborn
+matplotlib
+logging
+scikit-learn
+xgboost
+catboost
+dtale
 -e .
